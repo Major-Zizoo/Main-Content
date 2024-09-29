@@ -1,0 +1,17 @@
+img{
+    position: relative;
+    background-size: cover;
+    opacity: 0.9;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+h2{
+    position:absolute;
+    top:50%;
+    font: size 10px;
+    color:aqua
+    letter-spacing 5px;
+    text-transform:uppercase;
+    text-shadow:3px 4px 5px rgb(4, 21, 255);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
